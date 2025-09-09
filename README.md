@@ -1,5 +1,7 @@
 # trick2-grid
 
+![Image](https://github.com/user-attachments/assets/ae03759e-0d82-44e7-9e0f-2b75baca8e42)
+
 
 
 
